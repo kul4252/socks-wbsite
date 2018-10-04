@@ -1,0 +1,7 @@
+*.pyc
+
+venv37/
+static/
+
+db.sqlite3
+.DS_store
